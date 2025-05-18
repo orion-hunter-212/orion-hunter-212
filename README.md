@@ -7,7 +7,127 @@
 Hello, I'm a passionate self-taught Blockchain developer and software engineer from worldwide.
 I take great care in the experience, architecture, and code quality of the things I build.
 
+## Experienced Front-End & APP
 
+<table>
+  <tr>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/react.png" width="30" height="30" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/next.png" width="30" height="30" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/vite.png" width="30" height="30" alt="Vite" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/vue.png" width="30" height="30" alt="Vue" />
+      </a>
+      <br>Vue
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/Nuxt.png" width="30" height="30" alt="Nuxt" />
+      </a>
+      <br>Nuxt
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/angular.jpg" width="30" height="30" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/flutter.png" width="30" height="30" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/swift.png" width="30" height="30" alt="Swift" />
+      </a>
+      <br>Swift
+    </td>
+    
+</table>
+
+
+## Experienced Back-End FrameWorks
+
+<table>
+  <tr>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/spring.png" width="30" height="30" alt="Spring" />
+      </a>
+      <br>Spring
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/asp.net.jpg" width="30" height="30" alt="ASP.NET" />
+      </a>
+      <br>ASP.NET
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/rocket.png" width="30" height="30" alt="Rocket" />
+      </a>
+      <br>Rocket
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/node.png" width="30" height="30" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/express.png" width="30" height="30" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/nest.png" width="30" height="30" alt="Nest.js" />
+      </a>
+      <br>Nest.js
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/django.png" width="30" height="30" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/fastapi.png" width="30" height="30" alt="FastApi" />
+      </a>
+      <br>FastApi
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/flask.png" width="30" height="30" alt="Flask" />
+      </a>
+      <br>Flask
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/gin.png" width="30" height="30" alt="Gin" />
+      </a>
+      <br>Gin
+    </td>
+</table>
 
 ## Experienced Blockchain Networks
 
@@ -73,18 +193,6 @@ I take great care in the experience, architecture, and code quality of the thing
       </a>
       <br>cosmos
     </td>
-    <!-- <td align="center" width="70">
-      <a href="#macropower-tech">
-        <img src="./assets/logo/sui.png" width="30" height="30" alt="Sui" />
-      </a>
-      <br>Sui
-    </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech" >
-        <img src="./assets/logo/aptos.png" width="30" height="30" alt="Aptos" />
-      </a>
-      <br>Aptos
-    </td> -->
   </tr>
 </table>
 
@@ -151,4 +259,4 @@ I take great care in the experience, architecture, and code quality of the thing
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<a href="https://github.com/sourlodine/sourlodine"><img alt="Sourlodine's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sourlodine&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a style="aligh: center"><img alt="Sourlodine's activity graph" src="./assets/18.png" /></a>
