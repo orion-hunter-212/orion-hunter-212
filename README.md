@@ -262,10 +262,6 @@ I take great care in the experience, architecture, and code quality of the thing
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="Golang" src="https://img.shields.io/badge/Golang-53caf9.svg?logo=go&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white
-    "></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white
-    "></a>
     <a href="#"><img alt="Python" src=https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white
     "></a>
 </p>
@@ -276,7 +272,6 @@ I take great care in the experience, architecture, and code quality of the thing
     <a href="#"><img alt="Rust" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"></a>
      <a href="#"><img alt="Rust" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"></a>
       <a href="#"><img alt="Rust" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white"></a>
-      <a href="#"><img alt="Rust" src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white"></a>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white
     "></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"></a>
