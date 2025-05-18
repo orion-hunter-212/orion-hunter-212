@@ -129,6 +129,61 @@ I take great care in the experience, architecture, and code quality of the thing
     </td>
 </table>
 
+## Experienced CMS
+
+<table>
+  <tr>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/wordpress.png" width="30" height="30" alt="Wordpress" />
+      </a>
+      <br>Wordpress
+    </td>
+     <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/shopify.png" width="30" height="30" alt="Shopify" />
+      </a>
+      <br>Shopify
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/magnolia.png" width="30" height="30" alt="Magnolia" />
+      </a>
+      <br>Magnolia
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/payload.png" width="30" height="30" alt="Payload" />
+      </a>
+      <br>Payload
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/strapi.png" width="30" height="30" alt="Strapi" />
+      </a>
+      <br>Strapi
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/sanity.png" width="30" height="30" alt="Sanity" />
+      </a>
+      <br>Sanity
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/joomla.png" width="30" height="30" alt="Joomla" />
+      </a>
+      <br>Joomla
+    </td>
+    <td align="center" width="70">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/drapal.png" width="30" height="30" alt="Drapal" />
+      </a>
+      <br>Drapal
+    </td>
+    
+</table>
+
 ## Experienced Blockchain Networks
 
 <table>
@@ -218,7 +273,6 @@ I take great care in the experience, architecture, and code quality of the thing
 **- Framework and Library**
 <p>
     <a href="#"><img alt="Rust" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Web3-651fff?style=flat-square&logo=ethereum&logoColor=white"></a>
     <a href="#"><img alt="Rust" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"></a>
      <a href="#"><img alt="Rust" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"></a>
       <a href="#"><img alt="Rust" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white"></a>
@@ -228,7 +282,9 @@ I take great care in the experience, architecture, and code quality of the thing
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?logo=dotnet&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Rocket-000000?style=flat-square&logo=rust&logoColor=white"></a>
+     
 </p>
 
 **- Databases and cloud hosting**
@@ -238,11 +294,14 @@ I take great care in the experience, architecture, and code quality of the thing
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/Supabase-3ECF8E.svg?logo=supabase&logoColor=white"></a>
+    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=aws&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoftazure&logoColor=white"></a>
 </p>
 
 **- Software and tools**
@@ -257,6 +316,7 @@ I take great care in the experience, architecture, and code quality of the thing
     <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    
 </p>
 
 <a style="aligh: center"><img alt="Sourlodine's activity graph" src="./assets/18.png" /></a>
